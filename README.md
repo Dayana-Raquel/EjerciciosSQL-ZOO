@@ -1407,7 +1407,7 @@ WHERE name='Paul Hogan' AND ord = 1
 ![Soluc47](Soluc47.png)
 
 5. Seleccione la declaración que enumera todos los actores que protagonizaron películas dirigidas por Ridley Scott con ID 351.
-![Soluc48](Soluc348.png)
+![Soluc48](Soluc48.png)
 
 6. Hay dos maneras prácticas de conectar la película y el actor. Son:
 ![Soluc49](Soluc49.png)
